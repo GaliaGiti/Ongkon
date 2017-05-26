@@ -1,0 +1,10 @@
+*** All the files must reside in the same folder.
+
+Ongkon is a simple drawing application  created in python 3.6 using the pygame package.
+Controls: 
+	Draw:	Left-click and drag.
+	Erase:	Right-click and drag.
+IMPORTANT: pygame and python 3.x must be installed in the system to run Ongkon. 
+
+--- Galib, Giti ---
+
