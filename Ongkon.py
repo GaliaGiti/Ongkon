@@ -4,7 +4,7 @@ Controls:
 	Draw:	Left-click and drag.
 	Erase:	Right-click and drag.
 IMPORTANT: pygame and python 3.x must be installed in the system to run Ongkon. 
---- Galib, Giti ------
+--- Galib,  Giti ------
 """
 
 
